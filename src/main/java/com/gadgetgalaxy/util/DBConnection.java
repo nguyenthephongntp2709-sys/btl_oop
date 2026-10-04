@@ -17,7 +17,8 @@ public class DBConnection {
     private static final String PORT = "3306";
     private static final String DATABASE = "gadget_galaxy_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "";
+    private static final String PASSWORD =
+            System.getenv().getOrDefault("GADGET_DB_PASSWORD", "");
     private static final String URL = "jdbc:mysql://" + HOST + ":" + PORT + "/" + DATABASE 
             + "?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
