@@ -1,0 +1,3 @@
+Invoice No;Date;Customer Name;Customer Phone;Sold By;Total Amount;Payment Method;Status
+INV-20260525-0002;25/05/2026 20:43;Isuru;772892789;Tharindu Chandrawansha;LKR 1699,97;CARD;COMPLETED
+INV-20260525-0001;25/05/2026 20:27;Isuru;772892789;Savi Abey;LKR 1798,99;CASH;COMPLETED

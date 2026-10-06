@@ -1,0 +1,53 @@
+Log ID;Username;Action Performed;Timestamp
+94;admin;User successfully logged in.;06/10/2026 10:09
+93;admin;User successfully logged in.;05/10/2026 21:32
+92;admin;User successfully logged in.;05/10/2026 18:05
+91;admin;User successfully logged in.;05/10/2026 13:51
+90;admin;User successfully logged in.;05/10/2026 13:24
+89;admin;User successfully logged in.;05/10/2026 13:22
+88;admin;User successfully logged in.;05/10/2026 11:08
+87;admin;User successfully logged in.;05/10/2026 7:41
+86;admin;User successfully logged in.;05/10/2026 7:38
+85;admin;User successfully logged in.;04/10/2026 23:49
+84;admin;User successfully logged in.;04/10/2026 23:03
+83;admin;User successfully logged in.;27/08/2026 18:42
+82;tharindu;Processed sale INV-20260525-0002. Total: LKR 1699.97;25/05/2026 13:43
+81;tharindu;User successfully logged in.;25/05/2026 13:43
+80;savi;User logged out.;25/05/2026 13:43
+79;savi;Toggled user status to ACTIVE for: sales;25/05/2026 13:42
+78;savi;Toggled user status to INACTIVE for: sales;25/05/2026 13:42
+77;savi;User successfully logged in.;25/05/2026 13:41
+76;savi;Added product-supplier link: Samsung Galaxy S21 Ultra ? Galaxy Global Distribution;25/05/2026 13:34
+75;savi;"Added product-supplier link: Apple MacBook Pro 14"" ? Apex Tech Wholesale";25/05/2026 13:34
+74;savi;User successfully logged in.;25/05/2026 13:34
+73;savi;Removed product-supplier link ID: 18;25/05/2026 13:30
+72;savi;Added product-supplier link: product 2 ? supplier 2;25/05/2026 13:30
+71;savi;Added product-supplier link: product 4 ? supplier 1;25/05/2026 13:30
+70;savi;Added product-supplier link: product 3 ? supplier 1;25/05/2026 13:30
+69;savi;Added product-supplier link: product 2 ? supplier 1;25/05/2026 13:30
+68;savi;Added product-supplier link: product 1 ? supplier 2;25/05/2026 13:30
+67;savi;Updated supplier: Galaxy Global Distribution;25/05/2026 13:29
+66;savi;Updated supplier: Apex Tech Wholesale;25/05/2026 13:29
+65;savi;Updated customer: Isuru;25/05/2026 13:29
+64;savi;Processed sale INV-20260525-0001. Total: LKR 1798.99;25/05/2026 13:27
+63;savi;Updated reorder level to 15 for Product: Anker Nano II 65W Charger;25/05/2026 13:25
+62;savi;Added 45 units of stock for: Anker Nano II 65W Charger;25/05/2026 13:25
+61;savi;Created inventory record for: Anker Nano II 65W Charger;25/05/2026 13:25
+60;savi;Added 40 units of stock for: Sony WH-1000XM4 Headphones;25/05/2026 13:25
+59;savi;Created inventory record for: Sony WH-1000XM4 Headphones;25/05/2026 13:25
+58;savi;Added 35 units of stock for: Samsung Galaxy Watch 4;25/05/2026 13:25
+57;savi;Created inventory record for: Samsung Galaxy Watch 4;25/05/2026 13:25
+56;savi;Added 30 units of stock for: Apple iPad Air;25/05/2026 13:25
+55;savi;Created inventory record for: Apple iPad Air;25/05/2026 13:25
+54;savi;"Added 25 units of stock for: Apple MacBook Pro 14""";25/05/2026 13:25
+53;savi;"Created inventory record for: Apple MacBook Pro 14""";25/05/2026 13:25
+52;savi;Updated reorder level to 10 for Product: Samsung Galaxy S21 Ultra;25/05/2026 13:25
+51;savi;Added 20 units of stock for: Samsung Galaxy S21 Ultra;25/05/2026 13:24
+50;savi;Created inventory record for: Samsung Galaxy S21 Ultra;25/05/2026 13:24
+49;savi;User successfully logged in.;25/05/2026 13:24
+48;savi;Updated Product ID 6: Anker Nano II 65W Charger;25/05/2026 13:20
+47;savi;Updated Product ID 5: Sony WH-1000XM4 Headphones;25/05/2026 13:19
+46;savi;Updated Product ID 4: Samsung Galaxy Watch 4;25/05/2026 13:18
+45;savi;Updated Product ID 3: Apple iPad Air;25/05/2026 13:17
+44;savi;"Updated Product ID 2: Apple MacBook Pro 14""";25/05/2026 13:16
+43;savi;Updated Product ID 1: Samsung Galaxy S21 Ultra;25/05/2026 13:15
